@@ -58,6 +58,6 @@
     "typescript": "^5.4.0"
   },
   "dependencies": {
-    "advanced-js-kit": "^1.1.11"
+    "advanced-js-kit": "^1.1.12"
   }
 }
