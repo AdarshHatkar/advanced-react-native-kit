@@ -11,4 +11,5 @@ export default defineConfig({
   clean: true,
   treeshake: true,
   tsconfig: './tsconfig.json',
+  noExternal: ['advanced-js-kit'],
 });
