@@ -1,6 +1,1 @@
-export * from 'advanced-js-kit/react';
-
-export const testFun = ()=>{
-    console.log('testFun called');
-    return 'testFun result';
-}
+export * from './react-native'
