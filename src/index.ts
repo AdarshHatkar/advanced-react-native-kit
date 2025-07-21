@@ -1,1 +1,1 @@
-export * from 'advanced-js-kit/react-native';
+export * from 'advanced-js-kit/react';
