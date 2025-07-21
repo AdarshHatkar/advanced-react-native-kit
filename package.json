@@ -86,12 +86,10 @@
     "unlink": "npm unlink -g advanced-react-native-kit"
   },
   "devDependencies": {
-    "advanced-js-kit": "^1.1.11",
     "tsup": "^8.5.0",
     "typescript": "^5.4.0"
   },
-  "peerDependencies": {
-    "advanced-js-kit": "*"
-  },
-  "dependencies": {}
+  "dependencies": {
+    "advanced-js-kit": "^1.1.11"
+  }
 }
