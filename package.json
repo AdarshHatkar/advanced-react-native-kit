@@ -1,6 +1,6 @@
 {
   "name": "advanced-react-native-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native wrapper for advanced-js-kit - Modern TypeScript utility library with tree-shaking support for React Native applications",
   "keywords": [
     "typescript",
